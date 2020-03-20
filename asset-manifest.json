@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-eugene/static/css/main.add22715.chunk.css",
+    "main.js": "/react-eugene/static/js/main.a9db416a.chunk.js",
+    "main.js.map": "/react-eugene/static/js/main.a9db416a.chunk.js.map",
+    "runtime-main.js": "/react-eugene/static/js/runtime-main.e653d101.js",
+    "runtime-main.js.map": "/react-eugene/static/js/runtime-main.e653d101.js.map",
+    "static/js/2.ea1a7080.chunk.js": "/react-eugene/static/js/2.ea1a7080.chunk.js",
+    "static/js/2.ea1a7080.chunk.js.map": "/react-eugene/static/js/2.ea1a7080.chunk.js.map",
+    "index.html": "/react-eugene/index.html",
+    "precache-manifest.d35884cedabee1fab24fcc89d2f0f5c2.js": "/react-eugene/precache-manifest.d35884cedabee1fab24fcc89d2f0f5c2.js",
+    "service-worker.js": "/react-eugene/service-worker.js",
+    "static/css/main.add22715.chunk.css.map": "/react-eugene/static/css/main.add22715.chunk.css.map",
+    "static/js/2.ea1a7080.chunk.js.LICENSE.txt": "/react-eugene/static/js/2.ea1a7080.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-eugene/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e653d101.js",
+    "static/js/2.ea1a7080.chunk.js",
+    "static/css/main.add22715.chunk.css",
+    "static/js/main.a9db416a.chunk.js"
+  ]
+}
